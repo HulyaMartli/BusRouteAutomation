@@ -1,6 +1,6 @@
 public class BusStop {
-    String name;
-    int number;
+    public String name;
+    public int number;
 
     public BusStop(int number, String name) {
         this.number = number;

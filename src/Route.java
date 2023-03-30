@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
 public class Route {
-    String name;
-    static int number;
+    public String name;
+    public static int number;
 
     public BusStop[] createRoute(String[] allBusStops) {
         Scanner sc = new Scanner(System.in);

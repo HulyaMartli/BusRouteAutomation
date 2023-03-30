@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
 public class Bus {
-    String name;
-    Route route;
-    BusStop busStops[];
-    static int index;
+    public String name;
+    public Route route;
+    public BusStop busStops[];
+    public static int index;
 
     public Bus(Route route,String[] allBusStops) {
         this.route=route;

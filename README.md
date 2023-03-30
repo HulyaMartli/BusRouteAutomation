@@ -20,6 +20,8 @@ This repository was created to examine OOP in depth with Java. A basic console B
 
 4. Run Runner class in the src/Runner directory.
 
+> FOR TURKISH VERSION ==> [BusRouteAutomationTR]()
+
 ## Software & Tools
 
 * [Java 19](https://www.oracle.com/java/technologies/javase/jdk19-archive-downloads.html)
