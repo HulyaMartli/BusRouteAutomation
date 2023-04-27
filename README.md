@@ -1,6 +1,6 @@
 # Bus Route Automation (ongoing)
 
-This repository was created to examine OOP in depth with Java. A basic console Bus Route Automation menu was formed so the user can determine the route and the bus stops of the busses that are defined in the Runner class. No front-end studies have been made in this project yet. The aim is to study and learn OOP concepts, and it is an ongoing project.
+This repository was created to examine OOP in depth with Java. A basic console Bus Route Automation menu was formed so the user can determine the route and the bus stops of the busses that are defined in the Runner class. No front-end studies have been made in this project yet. The aim is to study and learn OOP concepts, and it is an ongoing project. 
 
 ## Console Preview
 
